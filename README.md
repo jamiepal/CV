@@ -1,6 +1,6 @@
 ## James Palmer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a front-end ruby developer with a passion for programming and statistics. I've helped students improve their mathematics knowledge and built web-apps. I enjoy the satisfaction of problem-solving and the opportunity to be creative that are found in software development.
 
 ## Skills
 

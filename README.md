@@ -6,11 +6,10 @@ I'm a front-end ruby developer with a passion for programming and statistics. I'
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Communication
 
-- Experience
-- Achievements
-- Evidence
+My experience as a tutor and teaching assistant has made me skilled at communicating concepts in a simple and straightforward way. One of my students went from being unable to do simple calculations with fractions to passing common entrance mathematics in a year.
+
 
 #### Another Skill
 
@@ -23,33 +22,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (june 2019 to august 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Cambridge (2009 to 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+B.A. in Natural Sciences, specialising in chemistry
 
-#### Any other qualifications
+#### The University of Warwick (2013 to 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+B.Sc. in Mathematics and Statistics
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+Visualware (july 2016 to december 2018)    
+Applications Development Engineer
+I had enhance and add to the front-end of a suite of products for measuring different aspects of internet speed.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+First Class Learning ( September 2012 to June 2013)   
+Teaching assistant
+Tutored children in maths.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Judo
